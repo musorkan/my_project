@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-cat /sys/class/net/
+ls /sys/class/net/
